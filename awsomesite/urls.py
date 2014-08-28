@@ -4,6 +4,8 @@ from django.conf.urls import patterns, include, url
 # from django.contrib import admin
 # admin.autodiscover()
 
+
+# Steffen var her
 urlpatterns = patterns('',
     # Examples:
     # url(r'^$', 'awsomesite.views.home', name='home'),
