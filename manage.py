@@ -2,6 +2,8 @@
 import os
 import sys
 
+# hello bitches
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "awsomesite.settings")
 
