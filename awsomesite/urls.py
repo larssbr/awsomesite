@@ -6,6 +6,7 @@ from django.conf.urls import patterns, include, url
 
 
 # Steffen var her
+# Jeg var her igjen
 urlpatterns = patterns('',
     # Examples:
     # url(r'^$', 'awsomesite.views.home', name='home'),
