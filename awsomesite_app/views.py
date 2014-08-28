@@ -2,3 +2,7 @@
 
 
 #dette e rnytt  view
+
+
+#Dett er enda noe nytt
+#Dette er tredjegang
