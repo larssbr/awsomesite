@@ -1,4 +1,4 @@
 # Create your views here.
 
 def index(request):
-	render(request,'index.html')
+	render(request,'dark-index-video.html')
